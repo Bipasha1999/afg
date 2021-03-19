@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116814974002",
+    "firebase_url": "https://newmeal-dev-default-rtdb.firebaseio.com",
+    "project_id": "newmeal-dev",
+    "storage_bucket": "newmeal-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116814974002:android:f21e849de84ce9a35e402b",
+        "android_client_info": {
+          "package_name": "example.newmeal_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116814974002-gep9v6slu33h2tqgag3eh3s9egjhmpr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7Q99VfABAg3mfAAuxVHvv3rUspUbAts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116814974002-gep9v6slu33h2tqgag3eh3s9egjhmpr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
